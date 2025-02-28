@@ -20,3 +20,4 @@ Keeping your local repository synched with the online version:
 	3. enter in terminal: "git push"
   5. now it's done
 There's way more to it, but for the beginning this works just fine and will do for 95% of interactions we need to do with github
+  1. For example after finishing your changes you could enter in terminal: "git status" it will list all new files and changes to files. so you can copy these filepath for "git add filepath" if you just want a single file for some reason to be updated on the online repo.
