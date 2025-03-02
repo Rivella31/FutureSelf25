@@ -1,0 +1,13 @@
+Risiko Analyse (02.03)
+
+Korrektheit des schon bestehenden Codes geht verloren:
+Eine mögliche Gefahr besteht darin, dass neu implementierter Code ungewünschte Folgen hat, die zu fehlerhaftem Verhalten in bereits bestehenden Funktionen führen.
+-	Eintrittswahrscheinlichkeit: Klein-Mittel
+-	Gewichtung: Fehlerhaftes Verhalten in Teilen des Codes, die nicht von uns stammen wären mühsam und Zeitaufwendig zu fixen. (mittel-schwer)
+-	Gegenmassnahmen: Bestehende Tests des Sourcecodes überprüfen und gegebenenfalls erweitern.
+
+Zeitliche Verzögerung wegen dem technischen Umgang mit Apps (im Play/App-Store):
+Unser Team hat wenig Erfahrung im Entwickeln von Apps und dem aktualisieren im Playstore/Appstore und den damit Verbundenen technischen Einstellungen. Damit verbunden können diverse Probleme entstehen.
+-	Eintrittswahrscheinlichkeit: mittel
+-	Gewichtung: Von konkreten Problemen, die vielleicht tatsächlich Eintreten, abhängig. (Mittel)
+-	Gegenmassnahmen: Frühes Auseinandersetzten mit App-Entwicklung, sowie genügend Zeit einplanen.
