@@ -6,7 +6,7 @@ Preparing for the Repo clone:
   1. find a space for the repository on your computer, (just a folder where you like everything for the repo to be) or you can make a new folder.
   2. make a different folder for different repos.
   3. open the folder
-  4. open Terminal inside that folder (on Windows just click on the adress bar of the file explorer and type git then enter)
+  4. open Terminal inside that folder (on Windows just click on the adress bar of the file explorer and type cmd then enter)
   5. now clone the repository: Write: "git clone <repository-url>" and hit enter, the url is on the main page of the repo on github, click on the green "Code" button. there you can copy the link.
   6. once you have done this you can move inside the repository folder:
 	1. In the terminal type: "cd repoName" and hit enter (the name is the name on the frontPage of the github)
